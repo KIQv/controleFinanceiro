@@ -10,7 +10,6 @@ public class Cliente {
         this.tipoConta = tipoConta;
         this.saldo = saldo;
     }
-
     public String getNomeCliente() {
         return nomeCliente;
     }
